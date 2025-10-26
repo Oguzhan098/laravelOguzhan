@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+=======
+# Laravel alt projeleri için genel .gitignore
+*/vendor
+*/node_modules
+*/storage/*.key
+*/public/storage
+*/.env
+*/.env.*
+.DS_Store
+.idea
+.vscode
+>>>>>>> 76dd8c234c7a806afd415a183eccefd74380d3b0
